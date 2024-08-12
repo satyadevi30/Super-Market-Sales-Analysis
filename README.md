@@ -22,7 +22,6 @@ The project is expected to uncover valuable insights into the supermarket's sale
 Random Forest Regression is a supervised learning algorithm that combines multiple decision trees to predict continuous outcomes. It is an ensemble learning method that improves the accuracy and robustness of decision trees by reducing overfitting and increasing generalizability.
 ## TF-IDF Vectorizer:
 TF-IDF (Term Frequency-Inverse Document Frequency) Vectorizer is a technique used in natural language processing (NLP) to transform text data into a numerical representation that can be used in machine learning algorithms. It is a widely used method for text classification, clustering, and information retrieval tasks.
-
 # Expected Output 
 The Supermarket Sales Analysis project aims to provide actionable insights for supermarket management to optimize inventory, plan marketing strategies, and enhance overall sales performance. 
 The expected output includes:
